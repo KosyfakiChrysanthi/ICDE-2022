@@ -12,7 +12,7 @@ Instructions for compiling and running the code
 - src3 dest3 time3 flow3...
 ...
 
-An example graph file (graph.txt or taxissort2.txt) is given in this distribution
+An example graph file (graph.txt or taxis_sort.txt - real dataset) is given in this distribution
 
 3) Running ./provenance_tin <graph file> <method> (method arguments)
 - the following algorithms are run and their provenance information is shown at the output
