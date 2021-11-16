@@ -1,3 +1,5 @@
+/*Chrysanthi Kosyfaki, University of Ioannina, PhD Candidate */
+
 #ifndef __MINHEAP
 #define __MINHEAP
 
