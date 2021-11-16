@@ -12,7 +12,7 @@ Instructions for compiling and running the code
 - src3 dest3 time3 flow3...
 ...
 
-An example graph file (graph.txt or taxis_sort.txt - real dataset) is given in this distribution
+An example graph file (graph.txt) is given in this distribution. In addition, you can use a real dataset (taxis_sort.txt).
 
 3) Running ./provenance_tin <graph file> <method> (method arguments)
 - the following algorithms are run and their provenance information is shown at the output
@@ -33,7 +33,6 @@ An example graph file (graph.txt or taxis_sort.txt - real dataset) is given in t
 | 121 |	Budget-based Proportional |
 
 Example of execution:
-make
 - ` ./provenance_tin graph.txt 0 `
 - ` ./provenance_tin graph.txt 1 `
 - ` ./provenance_tin graph.txt 2 `
