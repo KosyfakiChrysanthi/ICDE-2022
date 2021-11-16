@@ -1,4 +1,4 @@
-# ICDE-2022
+# ICDE-2022 - Provenance in Temporal Interaction Networks
 
 Instructions for compiling and running the code
 
