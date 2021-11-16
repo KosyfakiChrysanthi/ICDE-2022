@@ -12,7 +12,7 @@ Instructions for compiling and running the code
 - src3 dest3 time3 flow3...
 ...
 
-An example graph file (graph.txt) is given in this distribution. In addition, you can use a real dataset (taxis_sort.txt).
+An example graph file (graph.txt) is given in this distribution. In addition, you can use a real dataset we used in our experimental analysis (taxis_sort.txt).
 
 3) Running ./provenance_tin <graph file> <method> (method arguments)
 - the following algorithms are run and their provenance information is shown at the output
