@@ -1,3 +1,5 @@
+/*Chrysanthi Kosyfaki, University of Ioannina, PhD Candidate */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
