@@ -1,3 +1,5 @@
+/*Chrysanthi Kosyfaki, University of Ioannina, PhD Candidate */
+
 /*implementation of a minheap (priority queue) especially for buffered items*/
 /*used by provenance.c*/
 /*heap capacity is dynamic*/
