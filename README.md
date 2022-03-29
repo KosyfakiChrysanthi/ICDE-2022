@@ -1,5 +1,7 @@
 # ICDE-2022 Provenance in Temporal Interaction Networks (code)
 
+Find the paper here: https://www.cs.uoi.gr/~nikos/icde22.pdf
+
 Instructions for compiling and running the code
 
 1) run make at your terminal to compile the code (compilation is done using gcc with -O3 flag)
