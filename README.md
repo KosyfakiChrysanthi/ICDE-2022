@@ -2,6 +2,8 @@
 
 Find the paper here: https://www.cs.uoi.gr/~nikos/icde22.pdf
 
+Find our bitcoin dataset here: https://www.kaggle.com/chrysanthikosyfaki/datasets
+
 Instructions for compiling and running the code
 
 1) run make at your terminal to compile the code (compilation is done using gcc with -O3 flag)
